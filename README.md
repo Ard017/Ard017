@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
+### Hi there 👋, my name is Aror
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/2346270983/1646658639/600x200)
 
-<!--
-**Ard017/Ard017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Accompany someone who trusts you a lot and does not need your justification. He loves you for your dignity. He does not humiliate you. Someone who cannot live a day without you. Someone who teases you, saying, “I don’t love you.” And when you leave, he says, “I entrust you to God, you whom I loved.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS/IT/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
