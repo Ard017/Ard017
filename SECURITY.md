@@ -1,21 +1,42 @@
 # Security Policy
 
-## Supported Versions
+## Scope
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+This repository holds my GitHub profile page (`README.md`). It contains no
+application code, releases, or deployable software, so there are no versions
+to support with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you find a security problem related to this repository or my account
+(for example, a leaked secret, a malicious link, or content that looks like it
+was changed without my permission), please **do not open a public issue**.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Report it privately instead:
+
+- Use GitHub's private reporting form:
+  <https://github.com/Ard017/Ard017/security/advisories/new>
+
+Please include what you found, where (file and line, or link), and how to
+reproduce it if relevant.
+
+**What to expect:**
+
+- I aim to acknowledge reports within **7 days**.
+- If the report is confirmed, I will fix or remove the affected content and
+  let you know when it's done.
+- If I decide it isn't a security issue, I will explain why.
+
+Thank you for reporting responsibly.
+
+---
+
+## سياسة الأمان
+
+هذا المستودع يحتوي على صفحة ملفي الشخصي فقط، ولا يحتوي على برامج أو إصدارات.
+
+إذا وجدت مشكلة أمنية (مثل كلمة مرور أو مفتاح مكشوف، أو رابط ضار، أو محتوى تم تعديله دون إذني)،
+**لا تفتح Issue عاماً**، بل أبلغني بشكل خاص عبر:
+<https://github.com/Ard017/Ard017/security/advisories/new>
+
+سأرد خلال **7 أيام** بإذن الله.
